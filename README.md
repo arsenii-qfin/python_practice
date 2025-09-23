@@ -4,4 +4,4 @@
 * stockmax.py - The Stock Maximize problem from HackerRank
 * coinChange.py - The Coin Change problem from HackerRank
 * staircase.py - The Staircase problem from HackerRank
-* To be continued...
+* To be continued... Uhh.. To long to add them all.
